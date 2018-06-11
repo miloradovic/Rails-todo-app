@@ -10,4 +10,4 @@ Practicing Rails development by buiding simple app to understand foundations...
 
 * Used Linux Subsystem on Windows version: Ubuntu 18.04
 
-[[https://github.com/miloradovic/Rails-todo-app/blob/master/PrintScreen.png|alt=printscreen]]
+![Printscreen](https://github.com/miloradovic/Rails-todo-app/blob/master/PrintScreen.png)
