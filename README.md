@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Practicing Rails development by buiding simple app to understand foundations...
 
-Things you may want to cover:
+* Ruby version: 2.5.1
 
-* Ruby version
+* Ruby on Rails version: 5.2.0
 
-* System dependencies
+* Bootstrap 4.1
 
-* Configuration
+* Used Linux Subsystem on Windows version: Ubuntu 18.04
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[[https://github.com/miloradovic/Rails-todo-app/blob/master/PrintScreen.png|alt=printscreen]]
