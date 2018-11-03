@@ -4,7 +4,7 @@ Practicing Rails development by buiding simple app to understand foundations...
 
 * Ruby version: 2.5.1
 
-* Ruby on Rails version: 5.2.0
+* Ruby on Rails version: 5.2.1 (updated)
 
 * Bootstrap 4.1
 
